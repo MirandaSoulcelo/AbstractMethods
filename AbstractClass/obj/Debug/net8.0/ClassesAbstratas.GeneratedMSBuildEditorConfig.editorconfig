@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClassesAbstratas
-build_property.ProjectDir = c:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\
+build_property.ProjectDir = c:\Users\Marce\OneDrive\Documents\CursoC#\Test\AbstractMethods\AbstractClass\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
