@@ -1,0 +1,15 @@
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\bin\Debug\net8.0\ClassesAbstratas.exe
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\bin\Debug\net8.0\ClassesAbstratas.deps.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\bin\Debug\net8.0\ClassesAbstratas.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\bin\Debug\net8.0\ClassesAbstratas.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\bin\Debug\net8.0\ClassesAbstratas.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.sourcelink.json
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\refint\ClassesAbstratas.dll
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.pdb
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ClassesAbstratas.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\CursoC#\AbstractMethods\AbstractClass\obj\Debug\net8.0\ref\ClassesAbstratas.dll
